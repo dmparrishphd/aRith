@@ -2,3 +2,7 @@ aRith
 =====
 
 arbitrary-precision integer arithmetic
+
+See the internal
+[README](https://github.com/dmparrishphd/aRith/blob/main/inst/extdata/README)
+for additional details.
